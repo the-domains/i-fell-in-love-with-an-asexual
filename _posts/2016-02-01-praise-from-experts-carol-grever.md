@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T21:49:07.749Z'
-dateModified: '2016-02-01T21:48:52.307Z'
+datePublished: '2016-02-01T22:49:10.986Z'
+dateModified: '2016-02-01T22:49:07.969Z'
 title: 'Praise from Experts: Carol Grever'
 author: []
+sourcePath: _posts/2016-02-01-praise-from-experts-carol-grever.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-praise-from-experts-carol-grever.md
-published: true
 url: praise-from-experts-carol-grever/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ddaf426-765d-4536-b2c1-7e12c99f4383.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1f03911688fe07223d93b14436bafaaf4eb6ff.jpg)
 
 "This authoritative exploration of mismatched sexuality...offers creative self-help guides for anyone engaged in mixed-orientation intimacy. Above all, it assures readers that they are not alone in their hidden journey."
 
