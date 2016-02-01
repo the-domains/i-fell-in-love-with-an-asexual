@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T21:44:31.673Z'
-dateModified: '2016-02-01T21:44:29.025Z'
+datePublished: '2016-02-01T22:50:19.605Z'
+dateModified: '2016-02-01T22:50:17.112Z'
 title: 'Praise from Experts: Lori Brotto'
 author: []
 sourcePath: _posts/2016-02-01-praise-from-experts-lori-brotto.md
@@ -22,7 +22,7 @@ url: praise-from-experts-lori-brotto/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d75c13e3314a1932025c2fa897d6030e8dbe8efb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d75cc6e9638902049e096b2d9c39c53ca129d536.jpg)
 
 "Outstanding!...I wish I had this book as a resource to offer several former sexual-asexual couples I have seen in my practice...This book has provided some concrete recommendations for future clients."
 
