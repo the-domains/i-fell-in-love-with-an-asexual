@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:49:32.238Z'
+datePublished: '2016-02-01T22:49:32.253Z'
 dateModified: '2016-02-01T22:49:30.092Z'
 title: 'Praise from Experts: Karla Baur'
 author: []
