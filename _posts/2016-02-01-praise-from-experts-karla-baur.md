@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T21:43:50.631Z'
-dateModified: '2016-02-01T21:43:44.176Z'
+datePublished: '2016-02-01T22:49:32.276Z'
+dateModified: '2016-02-01T22:49:30.092Z'
 title: 'Praise from Experts: Karla Baur'
 author: []
 sourcePath: _posts/2016-02-01-praise-from-experts-karla-baur.md
@@ -22,7 +22,7 @@ url: praise-from-experts-karla-baur/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de391f3fd2382c2b9191b84f71fbe83ebc773264.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d479a70bf8551f692479e3e0f3fbd6670079da6.jpg)
 
 "Skillfully offers the reader opportunities for self-reflection by asking hard questions in a remarkably supportive manner...The integration of his own experiences makes the book especially salient and gives others lots of permission to be human!"
 
