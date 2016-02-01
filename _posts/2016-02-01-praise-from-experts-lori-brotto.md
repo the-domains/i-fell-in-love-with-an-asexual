@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T21:32:03.573Z'
+datePublished: '2016-02-01T21:32:03.593Z'
 dateModified: '2016-02-01T21:31:58.940Z'
 title: 'Praise from Experts: Lori Brotto'
 author: []
