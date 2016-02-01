@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:51:28.750Z'
-dateModified: '2016-02-01T22:51:23.923Z'
+datePublished: '2016-02-01T22:52:05.072Z'
+dateModified: '2016-02-01T22:52:02.275Z'
 title: I Fell in Love with an Asexual book cover
 author: []
 authors: []
