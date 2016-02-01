@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:49:54.987Z'
+datePublished: '2016-02-01T22:49:54.852Z'
 dateModified: '2016-02-01T22:49:52.728Z'
 title: 'Praise from Experts: Ian Kerner'
 author: []
