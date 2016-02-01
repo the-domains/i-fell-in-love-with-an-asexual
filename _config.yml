@@ -1,6 +1,6 @@
 name: I Fell in Love with an Asexual
 favicon: null
-layout_spectrum: 0.9666085459757596
+layout_spectrum: 0.87989
 typography_spectrum: 0.9163171141408384
 title: I Fell in Love with an Asexual but I Still Love Sex
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#5b5b5b'
     - '#e97074'
-  brandStrength: 0.75
+  brandStrength: 0.875
   lightness: 0.375
   saturation: 0.5625
   rhythmicContrast: 0.7743221479468048
