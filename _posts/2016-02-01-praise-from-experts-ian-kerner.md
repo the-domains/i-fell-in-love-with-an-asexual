@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T21:43:17.494Z'
-dateModified: '2016-02-01T21:43:08.490Z'
+datePublished: '2016-02-01T22:49:54.898Z'
+dateModified: '2016-02-01T22:49:52.728Z'
 title: 'Praise from Experts: Ian Kerner'
 author: []
 sourcePath: _posts/2016-02-01-praise-from-experts-ian-kerner.md
@@ -22,7 +22,7 @@ url: praise-from-experts-ian-kerner/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6aa4b4dc185c66cb6367bfef13b43656900de7b0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcc9feb920e401e64943a7a81c2a3c21d52051e2.jpg)
 
 "A heartfelt, informative foray into an extremely important topic that's woefully misunderstood and under-represented in academic and popular literature. A trail-blazing, comprehensive book that will speak to anyone who wants credible insight into asexuality in all its facets."
 
