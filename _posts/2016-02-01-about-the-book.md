@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T00:23:33.895Z'
+datePublished: '2016-02-02T00:23:33.919Z'
 dateModified: '2016-02-02T00:23:27.197Z'
 title: About the Book
 author: []
