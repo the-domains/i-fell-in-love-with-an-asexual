@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:49:10.966Z'
-dateModified: '2016-02-01T22:49:07.969Z'
+datePublished: '2016-02-02T22:31:04.238Z'
+dateModified: '2016-02-02T22:31:01.745Z'
 title: 'Praise from Experts: Carol Grever'
 author: []
 sourcePath: _posts/2016-02-01-praise-from-experts-carol-grever.md
@@ -22,9 +22,8 @@ url: praise-from-experts-carol-grever/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1f03911688fe07223d93b14436bafaaf4eb6ff.jpg)
-
 "This authoritative exploration of mismatched sexuality...offers creative self-help guides for anyone engaged in mixed-orientation intimacy. Above all, it assures readers that they are not alone in their hidden journey."
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1f03911688fe07223d93b14436bafaaf4eb6ff.jpg)
 
 **--[Carol Grever][0], author, _[When Your Spouse Comes Out][1]_, and _[My Husband Is Gay][2]_**
 
