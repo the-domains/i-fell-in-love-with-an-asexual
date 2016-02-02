@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T22:49:32.253Z'
-dateModified: '2016-02-01T22:49:30.092Z'
+datePublished: '2016-02-02T22:30:33.853Z'
+dateModified: '2016-02-02T22:30:29.622Z'
 title: 'Praise from Experts: Karla Baur'
 author: []
 sourcePath: _posts/2016-02-01-praise-from-experts-karla-baur.md
@@ -22,9 +22,8 @@ url: praise-from-experts-karla-baur/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d479a70bf8551f692479e3e0f3fbd6670079da6.jpg)
-
 "Skillfully offers the reader opportunities for self-reflection by asking hard questions in a remarkably supportive manner...The integration of his own experiences makes the book especially salient and gives others lots of permission to be human!"
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62b68577-95b7-4213-a871-1bad4cbb9201.jpg)
 
 **--[Karla Baur][0], MSW, sex therapist and co-author of _[Our Sexuality][1]_, the best-selling college textbook**
 
