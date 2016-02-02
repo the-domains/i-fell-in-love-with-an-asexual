@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
-description: A self-help memoir for sexual partners of individuals who may be asexual.
-datePublished: '2016-02-02T22:24:08.729Z'
-dateModified: '2016-02-02T22:24:05.342Z'
+description: A self-help memoir for sexual partners of people who may be asexual.
+datePublished: '2016-02-02T22:28:30.694Z'
+dateModified: '2016-02-02T22:28:27.358Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-02-frustrated-couple-in-bedroom.md
@@ -22,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/410b297480764e3569064b9ceca2a1c0805f7aba.jpg)
+![A self-help memoir for sexual partners of asexual people.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e587e0e5b7b6d6293da9627a6e1e3ded9f9e373.jpg)
