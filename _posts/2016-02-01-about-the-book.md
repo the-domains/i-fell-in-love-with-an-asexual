@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T00:12:41.861Z'
-dateModified: '2016-02-02T00:12:36.009Z'
+datePublished: '2016-02-02T00:23:33.822Z'
+dateModified: '2016-02-02T00:23:27.197Z'
 title: About the Book
 author: []
 sourcePath: _posts/2016-02-01-about-the-book.md
@@ -22,7 +22,7 @@ url: about-the-book/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5591db0c-a78e-47d0-885f-398f95df22d7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ee73957-8f7b-49cc-b9fb-6b2a4bc6cf80.jpg)
 
 Are you and your partner suffering in silence? You're not alone.
 
