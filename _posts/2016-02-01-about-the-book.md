@@ -3,25 +3,27 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T21:22:04.721Z'
-dateModified: '2016-02-01T21:21:36.434Z'
+datePublished: '2016-02-02T00:12:41.901Z'
+dateModified: '2016-02-02T00:12:36.009Z'
 title: About the Book
 author: []
+sourcePath: _posts/2016-02-01-about-the-book.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-about-the-book.md
-published: true
 url: about-the-book/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5591db0c-a78e-47d0-885f-398f95df22d7.jpg)
+
 Are you and your partner suffering in silence? You're not alone.
 
 * Are you in love with someone you believe may be asexual, or who knows they are?
