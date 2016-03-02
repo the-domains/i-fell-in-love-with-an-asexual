@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T00:23:33.919Z'
-dateModified: '2016-02-02T00:23:27.197Z'
+datePublished: '2016-03-02T02:13:47.530Z'
+dateModified: '2016-03-02T02:12:28.897Z'
 title: About the Book
 author: []
 sourcePath: _posts/2016-02-01-about-the-book.md
