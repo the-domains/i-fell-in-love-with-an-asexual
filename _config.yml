@@ -1,20 +1,4 @@
-name: Asexual Book
-favicon: null
-layout_spectrum: 0.74278
 typography_spectrum: 0.9163171141408384
-title: I Fell in Love with an Asexual but I Still Love Sex
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.375
   saturation: 0.5625
   rhythmicContrast: 0.7743221479468048
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74278
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Asexual Book
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About the Book
+    id: ce71c149-9420-46c3-ade9-9ffd399ff20e
+    type: content
+favicon: null
+title: I Fell in Love with an Asexual but I Still Love Sex
 purpose: []
