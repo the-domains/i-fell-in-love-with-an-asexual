@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T02:16:40.368Z'
-dateModified: '2016-03-02T02:16:25.199Z'
-title: About the Book
-author: []
+datePublished: '2016-09-01T00:32:45.543Z'
+dateModified: '2016-09-01T00:32:44.909Z'
+title: I Fell in Love with an Asexual front cover
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-01-about-the-book.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: about-the-book/index.html
 _type: WebPage
 
